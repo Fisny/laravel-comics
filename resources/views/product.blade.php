@@ -1,8 +1,7 @@
-@extends('templates.base')
+{{-- @extends('templates.base')
 
-@section('title', 'product') 
+{{-- @section('title', 'product') 
 
-
-@section('content')
- dettaglio prodotti
-@endsection
+@section('main')
+    ciao?
+@endsection --}} --}}

@@ -43,14 +43,17 @@
     </div>
 </div>
 
-<div class="social">
+<div class="social d-flex justify-content-around align-items-center">
     <div class="sing"><h5 class="sing-up">SING-UP NOW!</h5></div>
-    <div class="follow-us">
-        <h5>FOLLOW US</h5>
+    <div class="follow">
+
+        <h5>FOLLOW US
         <img src="/images/footer-facebook.png" alt="">
         <img src="/images/footer-twitter.png" alt="">
         <img src="/images/footer-youtube.png" alt="">
         <img src="/images/footer-pinterest.png" alt="">
         <img src="/images/footer-periscope.png" alt="">
+        </h5>
+       
     </div>
 </div>

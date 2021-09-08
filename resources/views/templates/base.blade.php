@@ -10,15 +10,15 @@
 </head>
 <body>
     <header> 
-        @include('templates.header')
+        @include('templates.header') {{-- header  --}}
     </header>
 
-    <div class="container">
-        @yield('content')
+    <div class="base">
+        @yield('main') 
     </div>
 
     <footer> 
-        @include('templates.footer')
+        @include('templates.footer') {{-- footer --}}
     </footer>
 </body>
 </html>
